@@ -1,0 +1,100 @@
+{
+  "output": [
+    {
+      "title": "Solo Leveling",
+      "description": "",
+      "field1": "",
+      "field2": "",
+      "field3": "",
+      "field4": "",
+      "isChapter": false,
+      "openInWebView": false,
+      "image": {
+        "url": "https://uploads.mangadex.org/covers/94b5730a-a34f-4a05-8e20-96cf70c2ac3e/2e91c98b-2166-4fc8-a5d6-8d47e4ecb19e.jpg",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      },
+      "link": {
+        "url": "https://mangadex.org/title/94b5730a-a34f-4a05-8e20-96cf70c2ac3e",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      }
+    },
+    {
+      "title": "One Piece",
+      "description": "",
+      "field1": "",
+      "field2": "",
+      "field3": "",
+      "field4": "",
+      "isChapter": false,
+      "openInWebView": false,
+      "image": {
+        "url": "https://uploads.mangadex.org/covers/a1d8d50f-481f-4b2d-8614-8d3ac507cd3e/3cbf529e-3e29-4ad6-bfc3-b3e1936e8a99.jpg",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      },
+      "link": {
+        "url": "https://mangadex.org/title/a1d8d50f-481f-4b2d-8614-8d3ac507cd3e",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      }
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "description": "",
+      "field1": "",
+      "field2": "",
+      "field3": "",
+      "field4": "",
+      "isChapter": false,
+      "openInWebView": false,
+      "image": {
+        "url": "https://uploads.mangadex.org/covers/3b8e5f99-a0b1-4f8f-9731-8578b47d4e18/069c3a38-3150-401f-81e4-587c5c4d53ed.jpg",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      },
+      "link": {
+        "url": "https://mangadex.org/title/3b8e5f99-a0b1-4f8f-9731-8578b47d4e18",
+        "method": "get",
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "httpBody": null
+      }
+    }
+  ]
+}
